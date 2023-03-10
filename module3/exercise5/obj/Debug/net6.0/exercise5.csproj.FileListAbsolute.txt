@@ -1,0 +1,15 @@
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\bin\Debug\net6.0\exercise5.exe
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\bin\Debug\net6.0\exercise5.deps.json
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\bin\Debug\net6.0\exercise5.runtimeconfig.json
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\bin\Debug\net6.0\exercise5.dll
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\bin\Debug\net6.0\exercise5.pdb
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\exercise5.csproj.AssemblyReference.cache
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\exercise5.AssemblyInfoInputs.cache
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\exercise5.AssemblyInfo.cs
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\exercise5.csproj.CoreCompileInputs.cache
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\exercise5.dll
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\refint\exercise5.dll
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\exercise5.pdb
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\exercise5.genruntimeconfig.cache
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\exercise6\obj\Debug\net6.0\ref\exercise5.dll
