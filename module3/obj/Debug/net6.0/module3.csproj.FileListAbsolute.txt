@@ -1,0 +1,5 @@
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\obj\Debug\net6.0\module3.csproj.AssemblyReference.cache
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\obj\Debug\net6.0\module3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\obj\Debug\net6.0\module3.AssemblyInfoInputs.cache
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\obj\Debug\net6.0\module3.AssemblyInfo.cs
+C:\Users\ADM-IVORYIT\Desktop\Projetos\csharpOOP\module3\obj\Debug\net6.0\module3.csproj.CoreCompileInputs.cache
