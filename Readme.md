@@ -6,5 +6,5 @@
 <h2>Orientações: </h2>
 <ul>
 <li>Criar pasta para exercícios</li>
-<li>Colocar arquivo com extensão .cs por tema ou exercício</li>
+<li>Colocar arquivo com extensão .cs por tema, exercício ou aula</li>
 </ul>
