@@ -16,3 +16,9 @@ else
 {
     Console.WriteLine("Não é multpilo");
 }
+
+//or 
+
+string[] numbers = Console.ReadLine().Split(' ');
+
+Console.WriteLine(int.Parse(numbers[0]) % int.Parse(numbers[1]) == 0 || int.Parse(numbers[1]) % int.Parse(numbers[0]) == 0 ? "São Multiplos" : "Não são Multiplos");

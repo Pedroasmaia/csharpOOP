@@ -4,3 +4,6 @@
  */
 int number = int.Parse(Console.ReadLine());
 if (number % 2 == 0) { Console.WriteLine("Par"); }else{ Console.WriteLine("Impar"); }
+
+//Or
+Console.WriteLine(int.Parse(Console.ReadLine())% 2 == 0 ? "PAR" : "IMPAR");

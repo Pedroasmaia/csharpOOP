@@ -26,3 +26,16 @@ else if(value <= 100)
 {
     Console.WriteLine("Esse número esta entre 75 e 100");
 }
+
+
+//or
+
+double number = double.Parse(Console.ReadLine());
+Console.WriteLine(
+
+   number > 0 && number <= 25 ?
+"Intervalo (0,25)" :  number > 25 && number <= 50 ?
+"Intervalo (25,50)" : number > 50 && number <= 75 ?
+"Intervalo (50,75)" : number > 75 && number <= 100 ?
+"Intervalo (75,100)" : "Fora de intervalo"
+);

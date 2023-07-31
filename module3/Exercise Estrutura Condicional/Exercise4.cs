@@ -24,3 +24,11 @@ else
         Console.WriteLine($"O Jogo durou {duration} horas(s)") ;
     }
 }
+
+
+//or 
+
+string[] hours = Console.ReadLine().Split(' ');
+int endHour = int.Parse(hours[1]);
+int starHour = int.Parse(hours[0]);
+Console.WriteLine(starHour >= endHour ? $"O Jogo durou {24-starHour+endHour} horas": $"O Jogo durou {endHour-starHour} horas");

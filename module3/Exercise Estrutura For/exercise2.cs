@@ -22,3 +22,21 @@ for (int i = 0; i < quantityNumbers; i++)
 }
 Console.WriteLine($"{inInterval} In");
 Console.WriteLine($"{outInterval} Out");
+
+//or 
+
+int inRange = 0;
+int outRange = 0;
+
+int number =  int.Parse(Console.ReadLine());
+for(int i=1; i <= number; i++){
+        Console.Write($"Insira o valor da posição {i}°:");
+        int temp = int.Parse(Console.ReadLine());
+        if(temp >=10 && temp <=20){
+                inRange++ ;
+        }
+        else{
+                outRange++ ;
+        }
+ }
+Console.WriteLine($" {inRange} in Range \n {outRange} Out Range");

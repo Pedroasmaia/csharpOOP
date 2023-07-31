@@ -14,3 +14,16 @@ for(int i = 0; i < quantityTests;i++){
    decimal media = (value1 * 2.0m +  value2 * 3.0m + value3 * 5.0m)/ 10.0m; 
    Console.WriteLine(media.ToString("F1"));
 }
+
+//OR
+int quantityTest =  int.Parse(Console.ReadLine());
+
+for(int i = 1; i <= quantityTest; i++){
+        string[] temp = Console.ReadLine().Split(' ');
+        double media =
+        ((double.Parse(temp[0]) * 2)+
+        (double.Parse(temp[1]) * 3)+
+        (double.Parse(temp[2]) * 5))/(2+3+5);
+        Console.WriteLine(media.ToString("F1"));
+}
+
